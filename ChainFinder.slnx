@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Project/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ChainFinder.Tests/ChainFinder.Tests.csproj" />
+  <Project Path="ChainFinder/ChainFinder.csproj" />
+</Solution>
