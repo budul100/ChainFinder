@@ -1,5 +1,7 @@
 # ChainFinder
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/budul100/ChainFinder/blob/main/LICENSE) [![NuGet](https://img.shields.io/nuget/v/budul.ChainFinder.svg)](https://www.nuget.org/packages/budul.ChainFinder/)
+
 Generic helper library to build chains (connected, ordered paths) from a set of directed elements, for example track segments, links or edges of any graph. Elements are connected by keys: the next key of one element has to match the key of the following element.
 
 ## Installation
