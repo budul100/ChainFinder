@@ -5,7 +5,6 @@ using ChainFinder.Settings;
 using ChainFinder.Tests.Data;
 using ChainFinder.Tests.Legacy;
 using Xunit;
-using Xunit.Abstractions;
 
 namespace ChainFinder.Tests
 {
